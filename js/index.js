@@ -35,3 +35,8 @@ function showCostumer(str)
     showAjax.open('GET','getCostumer.php?q='+str,true);
     showAjax.send();
 }
+function editFuntion()
+{
+
+    
+}
